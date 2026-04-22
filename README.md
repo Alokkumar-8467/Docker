@@ -126,3 +126,5 @@ Without any specific version it pull latest image
 command ``` docker pull nginx ```
 <img width="939" height="290" alt="image" src="https://github.com/user-attachments/assets/5205fa94-7dcd-4729-936c-46285048bad2" />
 
+To get all Docker image
+command ``` docker images ```
