@@ -30,3 +30,6 @@ Command same for all OS
 Command same for all services
 Standardizes process of running any services on any local dev environment
 Easy to run different versionds of same app without any conflicts.
+
+### Deployment process before containers?
+Artifact and instructions handed over to Ops team
