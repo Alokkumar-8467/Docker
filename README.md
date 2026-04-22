@@ -61,4 +61,8 @@ Run Docker command to fetch and run the Docker artifacts.
 ### What parts of the OS do they virtualize.
 #### Docker virtualize OS Applications Layer
 #### Virtual Machine virtualize OS Applications Layer and has own OS Kernal
+<img width="766" height="425" alt="image" src="https://github.com/user-attachments/assets/257eb7a6-84e7-44e0-9c72-b5290989e251" />
+
+<img width="705" height="441" alt="image" src="https://github.com/user-attachments/assets/a881877c-39da-420c-ae36-c682380adf4d" />
+
 
