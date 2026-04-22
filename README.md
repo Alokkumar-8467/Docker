@@ -29,4 +29,4 @@ Start service as a Docker container using a 1 Docker command
 Command same for all OS
 Command same for all services
 Standardizes process of running any services on any local dev environment
-Easy to run different versionds of same app without any conflicts
+Easy to run different versionds of same app without any conflicts.
