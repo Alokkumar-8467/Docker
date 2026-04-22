@@ -33,3 +33,4 @@ Easy to run different versionds of same app without any conflicts.
 
 ### Deployment process before containers?
 Artifact and instructions handed over to Ops team
+Ops team handles installing and configuring apps and its dependencies
