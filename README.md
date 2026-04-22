@@ -102,3 +102,4 @@ We can run multiple containers from 1 image
 1. A storage and distribution system for Docker images.
 2. Official images available from applications like Redis, Mongo, Postgres etc.
 3. Official images are maintained by the software authors or in collaboration with the Docker community.
+4. Docker hosts one of the biggest DOcker Registry, called "Docker Hub".
