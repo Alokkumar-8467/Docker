@@ -90,3 +90,5 @@ The file or Artifact that we produced is called Docker Image.
 1. An executable application artifact.
 2. Includes app source code, but also complete environment configuration.
 3. Add environment variables, create directories, files etc.
+
+<img width="717" height="459" alt="image" src="https://github.com/user-attachments/assets/1c1783f4-76ea-48ff-ac5f-05bfcb4f536c" />
