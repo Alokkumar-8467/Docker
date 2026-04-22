@@ -115,3 +115,8 @@ We can run multiple containers from 1 image
 
 1. Docker images are versioned.
 2. Different versions are identified by tags.
+
+3. ### How to PULL Docker Iamge
+   Command ```docker pull nginx:1.23```
+   <img width="927" height="509" alt="image" src="https://github.com/user-attachments/assets/ee6d0fe1-f663-4052-9c3b-c7482b5b072e" />
+
