@@ -69,13 +69,13 @@ Run Docker command to fetch and run the Docker artifacts.
 <img width="814" height="398" alt="image" src="https://github.com/user-attachments/assets/b05d6884-2a0d-4ced-804f-f9c09941932f" />
 
 ##### Docker
-Docker images, couple of MB
-Containers take seconds to start
-Compatible only with Linux distros
+1. Docker images, couple of MB
+2. Containers take seconds to start
+3. Compatible only with Linux distros
 
 ##### Virtual Machine
-VM images, couple of GB
-VMs take minutes to start
-VM is compatible with all OS
+1. VM images, couple of GB
+2. VMs take minutes to start
+3. VM is compatible with all OS
 
 
