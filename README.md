@@ -106,9 +106,6 @@ We can run multiple containers from 1 image
 
 5. ### Docker Official Images
 
-A dedicated team responsible for reviewing and publishing all content in
-the Docker Official Images repositories
-
-Works in collaboration with software maintainers, security experts
-
-However anyone can participate as collaboration takes place openly on GitHub
+1. A dedicated team responsible for reviewing and publishing all content in the Docker Official Images repositories
+2. Works in collaboration with software maintainers, security experts
+3. However anyone can participate as collaboration takes place openly on GitHub
