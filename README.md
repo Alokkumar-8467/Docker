@@ -127,4 +127,15 @@ command ``` docker pull nginx ```
 <img width="939" height="290" alt="image" src="https://github.com/user-attachments/assets/5205fa94-7dcd-4729-936c-46285048bad2" />
 
 To get all Docker image
-command ``` docker images ```
+> **command** ``` docker images ```
+```
+PS C:\Users\ALOK> docker images
+i Info →   U  In Use
+IMAGE                                       ID             DISK USAGE   CONTENT SIZE   EXTRA
+fct-support/drupal:prod                     f707ca06a52e       1.31GB          279MB    U
+fct-support/nextjs:prod                     cb5199a89b21        276MB         68.5MB    U
+gov-report-as-full-nextjs-frontend:latest   edfd5b812c5e       2.21GB          519MB    U
+gov-report-as-full-rails-backend:latest     d031dd055ed2          1GB          266MB    U
+postgres:16-alpine                          20edbde7749f        395MB          111MB    U
+PS C:\Users\ALOK>
+```
