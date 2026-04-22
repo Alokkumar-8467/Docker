@@ -44,3 +44,5 @@ Instead of textual, everything is packages inside the Dokcer artifact.
 No confirgurations needed on the server (except Docker runtime)
 Less room for errors.
 
+Install Docker runtime on the server.
+Run Docker command to fetch and run the Docker artifacts.
