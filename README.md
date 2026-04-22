@@ -37,4 +37,4 @@ Ops team handles installing and configuring apps and its dependencies
 
 ### Problem before containers
 Installations and configurations done directly on the server's OS.
-
+Dependency version conflicts etc.
