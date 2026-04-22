@@ -109,3 +109,9 @@ We can run multiple containers from 1 image
 1. A dedicated team responsible for reviewing and publishing all content in the Docker Official Images repositories
 2. Works in collaboration with software maintainers, security experts
 3. However anyone can participate as collaboration takes place openly on GitHub
+
+###  Image Versioning
+<img width="811" height="463" alt="image" src="https://github.com/user-attachments/assets/ea8d1a64-c713-4562-b3d4-2095a276266d" />
+
+1. Docker images are versioned.
+2. Different versions are identified by tags.
