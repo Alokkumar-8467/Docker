@@ -47,10 +47,13 @@ Less room for errors.
 Install Docker runtime on the server.
 Run Docker command to fetch and run the Docker artifacts.
 
-
 ## Virtual Machine vs Docker
 1. Why is Docker so widely used?
 2. What advantages does it have over Virtual Machines?
 3. What is the differences?
 
-##### How does Docker run its containers?
+#### How does Docker run its containers?
+#### How an OS is made up
+<img width="761" height="427" alt="image" src="https://github.com/user-attachments/assets/d8cae75f-293d-4b84-98af-0718776fb5b1" />
+
+
