@@ -66,4 +66,7 @@ Run Docker command to fetch and run the Docker artifacts.
 <img width="705" height="441" alt="image" src="https://github.com/user-attachments/assets/a881877c-39da-420c-ae36-c682380adf4d" />
 
 ### What affects has this difference?
+<img width="814" height="398" alt="image" src="https://github.com/user-attachments/assets/b05d6884-2a0d-4ced-804f-f9c09941932f" />
+
+
 
