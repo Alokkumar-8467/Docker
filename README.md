@@ -97,3 +97,6 @@ The file or Artifact that we produced is called Docker Image.
 
 We can run multiple containers from 1 image
 
+### Docker Registries
+
+
