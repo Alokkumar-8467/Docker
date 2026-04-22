@@ -56,4 +56,6 @@ Run Docker command to fetch and run the Docker artifacts.
 #### How an OS is made up
 <img width="761" height="427" alt="image" src="https://github.com/user-attachments/assets/d8cae75f-293d-4b84-98af-0718776fb5b1" />
 
+<img width="788" height="428" alt="image" src="https://github.com/user-attachments/assets/f08cd8e0-3bee-4cdf-a312-8bf6011db54b" />
+
 
