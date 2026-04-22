@@ -139,3 +139,15 @@ gov-report-as-full-rails-backend:latest     d031dd055ed2          1GB          2
 postgres:16-alpine                          20edbde7749f        395MB          111MB    U
 PS C:\Users\ALOK>
 ```
+
+To get all Docker Container
+> **command** ``` docker ps ```
+
+```
+PS C:\Users\ALOK> docker ps
+CONTAINER ID   IMAGE                     COMMAND                  CREATED          STATUS          PORTS                      NAMES
+6aaf01a5df18   fct-support/nextjs:prod   "docker-entrypoint.s…"   15 minutes ago   Up 15 minutes   127.0.0.1:3000->3000/tcp   fct-client-project-full-nextjs-1
+39f7966bfc50   fct-support/drupal:prod   "docker-php-entrypoi…"   15 minutes ago   Up 15 minutes   127.0.0.1:8080->80/tcp     fct-client-project-full-drupal-1
+```
+
+
