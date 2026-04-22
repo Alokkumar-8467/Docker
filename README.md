@@ -65,4 +65,5 @@ Run Docker command to fetch and run the Docker artifacts.
 
 <img width="705" height="441" alt="image" src="https://github.com/user-attachments/assets/a881877c-39da-420c-ae36-c682380adf4d" />
 
+### What affects has this difference?
 
