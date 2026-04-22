@@ -49,4 +49,7 @@ Run Docker command to fetch and run the Docker artifacts.
 
 
 ## Virtual Machine vs Docker
+1. Why is Docker so widely used?
+2. What advantages does it have over Virtual Machines?
+3. What is the differences?
 
