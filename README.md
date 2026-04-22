@@ -84,3 +84,5 @@ Run Docker command to fetch and run the Docker artifacts.
 Can be easily shared and moved
 Like a zip or tarfile or jar file
 Artifact Repository
+
+The file or Artifact that we produced is called Docker Image.
