@@ -68,5 +68,12 @@ Run Docker command to fetch and run the Docker artifacts.
 ### What affects has this difference?
 <img width="814" height="398" alt="image" src="https://github.com/user-attachments/assets/b05d6884-2a0d-4ced-804f-f9c09941932f" />
 
+Docker images, couple of MB
+Containers take seconds to start
+Compatible only with Linux distros
+
+VM images, couple of GB
+VMs take minutes to start
+VM is compatible with all OS
 
 
