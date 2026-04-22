@@ -86,3 +86,7 @@ Like a zip or tarfile or jar file
 Artifact Repository
 
 The file or Artifact that we produced is called Docker Image.
+
+1. An executable application artifact.
+2. Includes app source code, but also complete environment configuration.
+3. Add environment variables, create directories, files etc.
