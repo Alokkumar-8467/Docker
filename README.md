@@ -79,3 +79,5 @@ Run Docker command to fetch and run the Docker artifacts.
 3. VM is compatible with all OS
 
 ## Docker Images vs Docker Containers
+<img width="648" height="315" alt="image" src="https://github.com/user-attachments/assets/75702f23-6076-4d91-9709-23e32b8f924b" />
+
