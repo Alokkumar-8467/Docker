@@ -38,3 +38,6 @@ Ops team handles installing and configuring apps and its dependencies
 ### Problem before containers
 Installations and configurations done directly on the server's OS.
 Dependency version conflicts etc.
+
+### Deployment process with containers
+Instead of textual, everything is packages inside the Dokcer artifact.
