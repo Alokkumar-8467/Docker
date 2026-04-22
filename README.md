@@ -104,7 +104,7 @@ We can run multiple containers from 1 image
 3. Official images are maintained by the software authors or in collaboration with the Docker community.
 4. Docker hosts one of the biggest DOcker Registry, called "Docker Hub".
 
-5. ### Docker Official Images
+### Docker Official Images
 
 1. A dedicated team responsible for reviewing and publishing all content in the Docker Official Images repositories
 2. Works in collaboration with software maintainers, security experts
