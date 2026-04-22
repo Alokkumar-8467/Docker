@@ -78,4 +78,4 @@ Run Docker command to fetch and run the Docker artifacts.
 2. VMs take minutes to start
 3. VM is compatible with all OS
 
-
+## Docker Images vs Docker Containers
