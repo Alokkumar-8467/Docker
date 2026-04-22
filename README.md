@@ -41,3 +41,6 @@ Dependency version conflicts etc.
 
 ### Deployment process with containers
 Instead of textual, everything is packages inside the Dokcer artifact.
+No confirgurations needed on the server (except Docker runtime)
+Less room for errors.
+
