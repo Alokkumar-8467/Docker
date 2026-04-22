@@ -92,3 +92,5 @@ The file or Artifact that we produced is called Docker Image.
 3. Add environment variables, create directories, files etc.
 
 <img width="717" height="459" alt="image" src="https://github.com/user-attachments/assets/1c1783f4-76ea-48ff-ac5f-05bfcb4f536c" />
+
+<img width="904" height="346" alt="image" src="https://github.com/user-attachments/assets/83dc6d78-d92b-4d3c-a702-f59bcce01cda" />
