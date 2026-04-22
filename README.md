@@ -103,6 +103,7 @@ We can run multiple containers from 1 image
 2. Official images available from applications like Redis, Mongo, Postgres etc.
 3. Official images are maintained by the software authors or in collaboration with the Docker community.
 4. Docker hosts one of the biggest DOcker Registry, called "Docker Hub".
+5. Docker Hub registry (docker.io) is used by default.
 
 ### Docker Official Images
 
