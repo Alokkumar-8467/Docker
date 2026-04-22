@@ -81,3 +81,9 @@ Run Docker command to fetch and run the Docker artifacts.
 ## Docker Images vs Docker Containers
 <img width="648" height="315" alt="image" src="https://github.com/user-attachments/assets/75702f23-6076-4d91-9709-23e32b8f924b" />
 
+
+Can be easily shared and moved
+
+Like a zip or tarfile or jar file
+
+Artifact Repository
