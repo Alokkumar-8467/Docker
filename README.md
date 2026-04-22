@@ -122,3 +122,7 @@ Command
 ```docker pull nginx:1.23```
 <img width="927" height="509" alt="image" src="https://github.com/user-attachments/assets/ee6d0fe1-f663-4052-9c3b-c7482b5b072e" />
 
+Without any specific version it pull latest image
+command ``` docker pull nginx ```
+<img width="939" height="290" alt="image" src="https://github.com/user-attachments/assets/5205fa94-7dcd-4729-936c-46285048bad2" />
+
