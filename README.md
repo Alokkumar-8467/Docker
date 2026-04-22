@@ -53,3 +53,4 @@ Run Docker command to fetch and run the Docker artifacts.
 2. What advantages does it have over Virtual Machines?
 3. What is the differences?
 
+##### How does Docker run its containers?
