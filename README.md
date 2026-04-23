@@ -192,4 +192,5 @@ For Port Binding we use this command
 ``` docker run -d -p 1200:80 nginx:1.23 ```
 
 
+<img width="1079" height="331" alt="image" src="https://github.com/user-attachments/assets/b5364969-3026-471f-b43e-58e770dd9bc5" />
 
