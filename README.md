@@ -171,5 +171,9 @@ postgres:16-alpine                          20edbde7749f        395MB          1
 
 C:\Users\ALOK>
 ```
+## Container Port vs Host Port
+<img width="853" height="496" alt="image" src="https://github.com/user-attachments/assets/4348c4e5-5ee4-4792-9f8b-3249186c89e2" />
+
+
 
 
