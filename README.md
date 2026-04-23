@@ -151,5 +151,11 @@ CONTAINER ID   IMAGE                     COMMAND                  CREATED       
 ```
 
 In Docker if image is not present in local then it automatically go to DockerHub and download it.
+```
+C:\Users\ALOK>docker run nginx:1.22-alpine
+Unable to find image 'nginx:1.22-alpine' locally
+1.22-alpine: Pulling from library/nginx
+2dcba36d07e0: Pull complete
+```
 
 
