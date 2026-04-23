@@ -158,4 +158,18 @@ Unable to find image 'nginx:1.22-alpine' locally
 2dcba36d07e0: Pull complete
 ```
 
+```
+C:\Users\ALOK>docker images
+                                                                                                    i Info →   U  In Use
+IMAGE                                       ID             DISK USAGE   CONTENT SIZE   EXTRA
+fct-support/drupal:prod                     f707ca06a52e       1.31GB          279MB    U
+fct-support/nextjs:prod                     cb5199a89b21        276MB         68.5MB    U
+gov-report-as-full-nextjs-frontend:latest   b7d878dca027       2.21GB          519MB    U
+gov-report-as-full-rails-backend:latest     61e01e575ab8          1GB          266MB    U
+nginx:1.22-alpine                           8745c93f1a1c         63MB         16.8MB    U
+postgres:16-alpine                          20edbde7749f        395MB          111MB    U
+
+C:\Users\ALOK>
+```
+
 
