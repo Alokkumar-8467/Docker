@@ -174,6 +174,18 @@ C:\Users\ALOK>
 ## Container Port vs Host Port
 <img width="853" height="496" alt="image" src="https://github.com/user-attachments/assets/4348c4e5-5ee4-4792-9f8b-3249186c89e2" />
 
+#### Container runs on a specific port
+
+<img width="699" height="384" alt="image" src="https://github.com/user-attachments/assets/47098607-dc04-4e9e-ae8f-b26d00fc3e11" />
+
+For Example for postgres:16-alpine it run on port 5432
+<img width="782" height="508" alt="image" src="https://github.com/user-attachments/assets/101295c4-e889-44ea-85b9-6e8dd4441da1" />
+
+
+Like NGINX on port 80, Redish on Port 6379
+But when we directly browse on these port we get nothing.
+We need to bind our local port to the container port.
+
 
 
 
