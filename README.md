@@ -150,4 +150,6 @@ CONTAINER ID   IMAGE                     COMMAND                  CREATED       
 39f7966bfc50   fct-support/drupal:prod   "docker-php-entrypoi…"   15 minutes ago   Up 15 minutes   127.0.0.1:8080->80/tcp     fct-client-project-full-drupal-1
 ```
 
+In Docker if image is not present in local then it automatically go to DockerHub and download it.
+
 
