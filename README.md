@@ -267,4 +267,8 @@ It's a Docker image that your image is based on.
 > Dockerfile must begin with a FROM instruction
 > Build this image from the specified image
 
+### Multi-Layer Approach
+Every image consists of multiple image layers
+This makes Docker so efficient, because image layers can be cached.
+
 
