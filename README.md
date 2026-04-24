@@ -389,3 +389,5 @@ In Command lIne it also show the new Created image when we type ```docker images
 **Each instrunctions in the Dockerfile creates one layer**
 
 **These layers are stacked and each one is a delta of the changes from the previous layer**
+
+### 3. Now running the Docker Container.
