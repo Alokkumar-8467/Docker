@@ -257,3 +257,5 @@ Dockerfile is a text documents that contains commands to assemble an image.
 Docker can then build an image by reading those instructions.
 
 ### Structure of Dockerfile
+Docker file start from a parent image or **base image**
+It's a Docker image that your image is based on.
