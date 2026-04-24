@@ -236,5 +236,9 @@ It need a container ID like ```Docker start a0787c26320a```
 
 <img width="817" height="444" alt="image" src="https://github.com/user-attachments/assets/09c33502-7052-4dd8-a4ed-312e2019f0f1" />
 
+## Registry vs Repository
 
+### Docker Registry
+A service providing storage.
+Collection of repositories.
 
