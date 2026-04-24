@@ -344,3 +344,34 @@ CMD ["node", "server.js"]
 
 ### 2. Now building Docker Image.
 
+```  docker build -t node-app:1.0 . ```
+
+<img width="849" height="664" alt="image" src="https://github.com/user-attachments/assets/84166f8b-0ecb-4e3d-aebf-a90202359268" />
+
+```
+PS C:\Users\ALOK\Desktop\DockerRun> docker build -t node-app:1.0 .
+[+] Building 8.3s (11/11) FINISHED                                                                                                                                        docker:desktop-linux
+ => [internal] load build definition from Dockerfile                                                                                                                                      0.0s
+ => => transferring dockerfile: 171B                                                                                                                                                      0.0s
+ => [internal] load metadata for docker.io/library/node:25-alpine3.22                                                                                                                     1.8s
+ => [auth] library/node:pull token for registry-1.docker.io                                                                                                                               0.0s
+ => [internal] load .dockerignore                                                                                                                                                         0.0s
+ => => transferring context: 2B                                                                                                                                                           0.0s
+ => CACHED [1/5] FROM docker.io/library/node:25-alpine3.22@sha256:d4f742bdaee57b81d8b1a1c78e210e5c3c2b3892b335a30575956819028c804e                                                        0.1s
+ => => resolve docker.io/library/node:25-alpine3.22@sha256:d4f742bdaee57b81d8b1a1c78e210e5c3c2b3892b335a30575956819028c804e                                                               0.0s
+ => [internal] load build context                                                                                                                                                         0.1s
+ => => transferring context: 876B                                                                                                                                                         0.1s
+ => [2/5] COPY package.json /app/                                                                                                                                                         0.1s
+ => [3/5] COPY src /app/                                                                                                                                                                  0.1s
+ => [4/5] WORKDIR /app                                                                                                                                                                    0.1s
+ => [5/5] RUN npm install                                                                                                                                                                 3.3s
+ => exporting to image                                                                                                                                                                    1.5s
+ => => exporting layers                                                                                                                                                                   0.8s
+ => => exporting manifest sha256:5cf79202bd9248527a62a17c6cf24beabe7f6fbf96b114a2667233d15f722d42                                                                                         0.0s
+ => => exporting config sha256:8d5d67a214223e39eed5615fc2446d4efc471eb91c53a5b1619e97dc115ae777                                                                                           0.1s
+ => => exporting attestation manifest sha256:8e8141032e444e3b0fb1a1eada597e89b440354ed35386a2dd8315d326890360                                                                             0.1s
+ => => exporting manifest list sha256:fba26fdfed6f61a783489741bdf9528f8464e235891b9a9f89de1de7b749f843                                                                                    0.1s
+ => => naming to docker.io/library/node-app:1.0                                                                                                                                           0.0s
+ => => unpacking to docker.io/library/node-app:1.0                                                                                                                                        0.4s
+View build details: docker-desktop://dashboard/build/desktop-linux/desktop-linux/pkg5wjnc3j8wob6n58z68z0yc
+```
