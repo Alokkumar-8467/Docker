@@ -305,6 +305,6 @@ While "RUN" is executed in the container, "COPY" is exectued on the host
 
 <img width="737" height="223" alt="image" src="https://github.com/user-attachments/assets/698b777d-366c-46d4-8e42-1f2f3fcaeac5" />
 
-> In 1st COPY, we only copy the package.json file. BUt in 2nd COPY, we copy the whole src file.
+> In 1st COPY, we only copy the package.json file. But in 2nd COPY, we copy the whole src file.
 
 
