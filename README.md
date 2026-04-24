@@ -301,6 +301,9 @@ While "RUN" is executed in the container, "COPY" is exectued on the host.
 WORKDIR : Sets the working directory for all following commands.
 Like changing into a directory: "cd...."
 
+CMD : The instruction that is to be executed when a Docker container starts.
+
+There can only "CMD" instruction in a Dockerfile.
 ```
 
 <img width="868" height="500" alt="image" src="https://github.com/user-attachments/assets/e80bedcf-6453-43cd-9645-8d1ce9eb6119" />
@@ -313,6 +316,9 @@ Like changing into a directory: "cd...."
 > We use /app/ because it that app/ filder not created then create automatically.
 
 <img width="594" height="214" alt="image" src="https://github.com/user-attachments/assets/36a917cd-c957-4697-804c-d5e5b058d7da" />
+
+<img width="718" height="192" alt="image" src="https://github.com/user-attachments/assets/d294cef3-31a7-40eb-af18-d92d84309d7c" />
+
 
 ## **FINAL DOCKERFILE CODE**
 ```
