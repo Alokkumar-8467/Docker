@@ -243,3 +243,6 @@ A service providing storage.
 Can be hosted by a third party, like AWS, or by yourself.
 Collection of repositories.
 
+### Docker Repository
+Collection of related images with same name but different versions.
+
