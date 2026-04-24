@@ -199,3 +199,4 @@ Now nginx work or run on localHost ```http://localhost:1200```
 **For Best practice in PORT BINDING use the same port like MySQL bydefault port is 3306 then on local we need to use PORT 3306**
 <img width="481" height="505" alt="image" src="https://github.com/user-attachments/assets/550253c5-8491-4952-99ee-38761cd4edef" />
 
+## Start and Stop Containers
