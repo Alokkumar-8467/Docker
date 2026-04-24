@@ -255,3 +255,5 @@ Collection of related images with same name but different versions.
 
 Dockerfile is a text documents that contains commands to assemble an image.
 Docker can then build an image by reading those instructions.
+
+### Structure of Dockerfile
