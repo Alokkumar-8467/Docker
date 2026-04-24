@@ -296,7 +296,10 @@ This RUN container also install the node in docker container.
 COPY : Copies files or directories from <src> and adds them to the filesystem
 of the container at the path <dest>
 
-While "RUN" is executed in the container, "COPY" is exectued on the host
+While "RUN" is executed in the container, "COPY" is exectued on the host.
+
+WORKDIR : Sets the working directory for all following commands.
+Like changing into a directory: "cd...."
 
 ```
 
