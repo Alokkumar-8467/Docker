@@ -205,5 +205,6 @@ Now nginx work or run on localHost ```http://localhost:1200```
 
 > ```Docker ps``` show only running containers but ```Docker ps -a or -all``` show all containers.
 
+<img width="1004" height="449" alt="image" src="https://github.com/user-attachments/assets/27dc9172-eac0-4fa9-9bbe-f9c7a8ad4518" />
 
 
