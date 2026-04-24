@@ -307,4 +307,5 @@ While "RUN" is executed in the container, "COPY" is exectued on the host
 
 > In 1st COPY, we only copy the package.json file. But in 2nd COPY, we copy the whole src file.
 
+> We use /app/ because it that app/ filder not created then create automatically.
 
