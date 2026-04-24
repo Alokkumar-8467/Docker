@@ -186,8 +186,6 @@ Like NGINX on port 80, Redish on Port 6379
 But when we directly browse on these port we get nothing.
 We need to bind our local port to the container port.
 
-<img width="782" height="508" alt="image" src="https://github.com/user-attachments/assets/1f4d356e-9ec0-4e41-b897-b8827ac250b5" />
-
 For Port Binding we use this command
 ``` docker run -d -p 1200:80 nginx:1.23 ```
 
