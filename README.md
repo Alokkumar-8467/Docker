@@ -230,3 +230,5 @@ It need a container ID like ```Docker start a0787c26320a```
 
 <img width="897" height="513" alt="image" src="https://github.com/user-attachments/assets/b7c5556c-19d3-46dc-8c8b-84e728cad091" />
 
+## Public and Private Docker Registries
+
