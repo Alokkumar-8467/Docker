@@ -251,3 +251,7 @@ Collection of related images with same name but different versions.
 ## Dockerfile -
 ### Create own Images
 
+<img width="686" height="348" alt="image" src="https://github.com/user-attachments/assets/23c5397c-2994-475b-a98f-48c78676b40f" />
+
+Dockerfile is a text documents that contains commands to assemble an image.
+Docker can then build an image by reading those instructions.
