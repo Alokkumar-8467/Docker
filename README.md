@@ -381,6 +381,8 @@ View build details: docker-desktop://dashboard/build/desktop-linux/desktop-linux
 <img width="1656" height="466" alt="image" src="https://github.com/user-attachments/assets/d536be78-2a13-445c-a16a-ab4c26d2ea3c" />
 
 In Command lIne it also show the new Created image when we type ```docker images```
+<img width="596" height="184" alt="image" src="https://github.com/user-attachments/assets/4413ad8b-8500-426e-89d4-4b1617c9842a" />
+
 
 **A Docker image consists of layers**
 
