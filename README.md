@@ -260,3 +260,7 @@ Docker can then build an image by reading those instructions.
 Docker file start from a parent image or **base image**
 It's a Docker image that your image is based on.
 **You choose the base image, depending on which tools you need to have available**
+
+<img width="532" height="439" alt="image" src="https://github.com/user-attachments/assets/71e866dd-143f-4a55-9783-f782df7624e4" />
+
+
