@@ -286,4 +286,8 @@ So, we use ```FROM node:19-alpine``` in Dockerfile.
 
 Means, install node in local system and for container we use ```FROM node <version>```
 
+```
+FROM : Building the images from the specified image
 
+RUM : Will execute any command in a shell inside the containers environment.
+```
