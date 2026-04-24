@@ -271,4 +271,7 @@ It's a Docker image that your image is based on.
 Every image consists of multiple image layers
 This makes Docker so efficient, because image layers can be cached.
 
+<img width="786" height="432" alt="image" src="https://github.com/user-attachments/assets/a1308f0e-75a0-4f09-867d-3606205e9aa3" />
+
+
 
