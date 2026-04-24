@@ -278,6 +278,8 @@ This makes Docker so efficient, because image layers can be cached.
 
 ## Building our own project Image on Docker.
 
+### 1. Building Dcokerfile
+
 <img width="723" height="224" alt="image" src="https://github.com/user-attachments/assets/ec81e9d7-9664-4157-93b0-2d49ce4ec538" />
 
 We are building the Docker image for node project so we need to provide the node also in container.
@@ -321,7 +323,7 @@ CMD ["node", "server.js"]
 <img width="718" height="192" alt="image" src="https://github.com/user-attachments/assets/d294cef3-31a7-40eb-af18-d92d84309d7c" />
 
 
-## **FINAL DOCKERFILE CODE**
+#### **FINAL DOCKERFILE CODE**
 ```
 FROM node:25-alpine3.22
 COPY package.json /app/
@@ -332,4 +334,5 @@ CMD ["node", "server.js"]
 ```
 <img width="592" height="286" alt="image" src="https://github.com/user-attachments/assets/224a97bd-cdaf-4e49-adf5-a2e0fc507512" />
 
+### Now building Docker Image.
 
