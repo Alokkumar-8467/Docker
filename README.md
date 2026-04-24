@@ -292,6 +292,18 @@ FROM : Building the images from the specified image
 RUN : Will execute any command in a shell inside the containers environment.
 
 This RUN container also install the node in docker container.
+
+COPY : Copies files or directories from <src> and adds them to the filesystem
+of the container at the path <dest>
+
+While "RUN" is executed in the container, "COPY" is exectued on the host
+
 ```
+
+<img width="868" height="500" alt="image" src="https://github.com/user-attachments/assets/e80bedcf-6453-43cd-9645-8d1ce9eb6119" />
+
+
+<img width="737" height="223" alt="image" src="https://github.com/user-attachments/assets/698b777d-366c-46d4-8e42-1f2f3fcaeac5" />
+
 
 
