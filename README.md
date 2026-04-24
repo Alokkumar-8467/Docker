@@ -263,4 +263,8 @@ It's a Docker image that your image is based on.
 
 <img width="532" height="439" alt="image" src="https://github.com/user-attachments/assets/71e866dd-143f-4a55-9783-f782df7624e4" />
 
+```FROM```
+> Dockerfile must begin with a FROM instruction
+> Build this image from the specified image
+
 
