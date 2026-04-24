@@ -380,6 +380,8 @@ View build details: docker-desktop://dashboard/build/desktop-linux/desktop-linux
 
 <img width="1656" height="466" alt="image" src="https://github.com/user-attachments/assets/d536be78-2a13-445c-a16a-ab4c26d2ea3c" />
 
+In Command lIne it also show the new Created image when we type ```docker images```
+
 **A Docker image consists of layers**
 
 **Each instrunctions in the Dockerfile creates one layer**
