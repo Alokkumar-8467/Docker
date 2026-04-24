@@ -193,3 +193,6 @@ For Port Binding we use this command
 <img width="1079" height="331" alt="image" src="https://github.com/user-attachments/assets/b5364969-3026-471f-b43e-58e770dd9bc5" />
 
 Now nginx work or run on localHost ```http://localhost:1200```
+
+<img width="1267" height="342" alt="image" src="https://github.com/user-attachments/assets/43434a72-df9f-4e45-bd7c-2170db87d501" />
+
