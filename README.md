@@ -240,5 +240,6 @@ It need a container ID like ```Docker start a0787c26320a```
 
 ### Docker Registry
 A service providing storage.
+Can be hosted by a third party, like AWS, or by yourself.
 Collection of repositories.
 
