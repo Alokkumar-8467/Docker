@@ -391,3 +391,9 @@ In Command lIne it also show the new Created image when we type ```docker images
 **These layers are stacked and each one is a delta of the changes from the previous layer**
 
 ### 3. Now running the Docker Container.
+
+``` docker run -d -p 3000:3000 node-app:1.0 ```
+
+<img width="666" height="236" alt="image" src="https://github.com/user-attachments/assets/990e11ab-5d2f-4baf-985c-aaf3b2aa2a6f" />
+
+
