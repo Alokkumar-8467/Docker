@@ -398,4 +398,6 @@ In Command lIne it also show the new Created image when we type ```docker images
 
 <img width="1658" height="344" alt="image" src="https://github.com/user-attachments/assets/98433d06-4fd8-4292-b34e-c8ac03071fcb" />
 
+<img width="971" height="100" alt="image" src="https://github.com/user-attachments/assets/5eda3b82-7044-44ea-a6e5-68f8627d5221" />
+
 
