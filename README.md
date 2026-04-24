@@ -278,6 +278,12 @@ This makes Docker so efficient, because image layers can be cached.
 
 ## Building our own project Image on Docker.
 
+**Docker has three parts**
+**1. Dockerfile**
+
+<img width="679" height="282" alt="image" src="https://github.com/user-attachments/assets/0bc7acff-1654-4f44-9df6-c5ba2bb84873" />
+
+
 ### 1. Building Dcokerfile
 
 <img width="723" height="224" alt="image" src="https://github.com/user-attachments/assets/ec81e9d7-9664-4157-93b0-2d49ce4ec538" />
