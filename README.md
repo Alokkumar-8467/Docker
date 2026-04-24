@@ -304,6 +304,7 @@ Like changing into a directory: "cd...."
 CMD : The instruction that is to be executed when a Docker container starts.
 
 There can only "CMD" instruction in a Dockerfile.
+CMD ["node", "server.js"]
 ```
 
 <img width="868" height="500" alt="image" src="https://github.com/user-attachments/assets/e80bedcf-6453-43cd-9645-8d1ce9eb6119" />
@@ -327,5 +328,6 @@ COPY package.json /app/
 COPY src /app/
 WORKDIR /app
 RUN npm install
+CMD ["node", "server.js"]
 ```
 
