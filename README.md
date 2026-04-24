@@ -220,3 +220,4 @@ it need a container ID to like ```Docker stop a0787c26320a```
 It need a container ID to like ```Docker start a0787c26320a```
 > We can start multiple container at same time.
 
+### Giving name to container instead of default ID
