@@ -309,3 +309,6 @@ While "RUN" is executed in the container, "COPY" is exectued on the host
 
 > We use /app/ because it that app/ filder not created then create automatically.
 
+<img width="594" height="214" alt="image" src="https://github.com/user-attachments/assets/36a917cd-c957-4697-804c-d5e5b058d7da" />
+
+
