@@ -214,3 +214,8 @@ This command also show the running container and exited container.
 
 it need a container ID to like ```Docker stop a0787c26320a```
 
+### Docker start
+<img width="547" height="109" alt="image" src="https://github.com/user-attachments/assets/86534154-74f5-4dd8-a3cd-e8e1f617579a" />
+
+It need a container ID to like ```Docker start a0787c26320a```
+
