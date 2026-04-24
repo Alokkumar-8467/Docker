@@ -280,6 +280,7 @@ This makes Docker so efficient, because image layers can be cached.
 
 **Docker has three parts**
 **1. Dockerfile**
+**1. Dockerfile**
 
 <img width="679" height="282" alt="image" src="https://github.com/user-attachments/assets/0bc7acff-1654-4f44-9df6-c5ba2bb84873" />
 
