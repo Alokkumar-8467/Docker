@@ -376,5 +376,7 @@ PS C:\Users\ALOK\Desktop\DockerRun> docker build -t node-app:1.0 .
 View build details: docker-desktop://dashboard/build/desktop-linux/desktop-linux/pkg5wjnc3j8wob6n58z68z0yc
 ```
 
+**The New Docker Image is build and the image also shows in DockerDesktop **
+
 <img width="1656" height="466" alt="image" src="https://github.com/user-attachments/assets/d536be78-2a13-445c-a16a-ab4c26d2ea3c" />
 
