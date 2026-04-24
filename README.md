@@ -201,7 +201,7 @@ Now nginx work or run on localHost ```http://localhost:1200```
 
 ## Start and Stop Containers
 
-**Docker run command create the new container everytime when we execute the Docker run. Doesn't re-use previous container**
+> **Docker run command create the new container everytime when we execute the Docker run. Doesn't re-use previous container**
 ```Docker run```
 > ```Docker ps``` show only running containers but ```Docker ps -a or -all``` show all containers.
 
