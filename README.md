@@ -207,4 +207,5 @@ Now nginx work or run on localHost ```http://localhost:1200```
 
 <img width="1004" height="449" alt="image" src="https://github.com/user-attachments/assets/27dc9172-eac0-4fa9-9bbe-f9c7a8ad4518" />
 
+This command also show the running container and exited container.
 
