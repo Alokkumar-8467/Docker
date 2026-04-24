@@ -212,12 +212,13 @@ This command also show the running container and exited container.
 ### Docker stop
 <img width="1018" height="522" alt="image" src="https://github.com/user-attachments/assets/d70f9a62-a23b-43ca-978e-c2f53bbf4a22" />
 
-it need a container ID to like ```Docker stop a0787c26320a```
+it need a container ID like ```Docker stop a0787c26320a```
 
 ### Docker start
 <img width="547" height="109" alt="image" src="https://github.com/user-attachments/assets/86534154-74f5-4dd8-a3cd-e8e1f617579a" />
 
-It need a container ID to like ```Docker start a0787c26320a```
+It need a container ID like ```Docker start a0787c26320a```
 > We can start multiple container at same time.
 
-### Giving name to container instead of default ID
+### Giving name to container instead of default name
+``` docker run --name web-app -d -p  ```
