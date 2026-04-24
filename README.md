@@ -276,5 +276,9 @@ This makes Docker so efficient, because image layers can be cached.
 
 <img width="786" height="432" alt="image" src="https://github.com/user-attachments/assets/a1308f0e-75a0-4f09-867d-3606205e9aa3" />
 
+## Building our own project Image on Docker.
+
+<img width="723" height="224" alt="image" src="https://github.com/user-attachments/assets/ec81e9d7-9664-4157-93b0-2d49ce4ec538" />
+
 
 
