@@ -380,3 +380,8 @@ View build details: docker-desktop://dashboard/build/desktop-linux/desktop-linux
 
 <img width="1656" height="466" alt="image" src="https://github.com/user-attachments/assets/d536be78-2a13-445c-a16a-ab4c26d2ea3c" />
 
+**A Docker image consists of layers**
+
+**Each instrunctions in the Dockerfile creates one layer**
+
+**These layers are stacked and each one is a delta of the changes from the previous layer**
