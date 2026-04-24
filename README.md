@@ -314,4 +314,12 @@ Like changing into a directory: "cd...."
 
 <img width="594" height="214" alt="image" src="https://github.com/user-attachments/assets/36a917cd-c957-4697-804c-d5e5b058d7da" />
 
+FINAL DOCKERFILE CODE
+```
+FROM node:25-alpine3.22
+COPY package.json /app/
+COPY src /app/
+WORKDIR /app
+RUN npm install
+```
 
