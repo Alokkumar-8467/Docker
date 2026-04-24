@@ -221,4 +221,7 @@ It need a container ID like ```Docker start a0787c26320a```
 > We can start multiple container at same time.
 
 ### Giving name to container instead of default name
-``` docker run --name web-app -d -p  ```
+``` docker run --name web-app -d -p  9000:80 nginx:1.23```
+
+<img width="1010" height="527" alt="image" src="https://github.com/user-attachments/assets/d6a46da5-58f1-40ed-b807-23ac58df7376" />
+
