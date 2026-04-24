@@ -281,5 +281,9 @@ This makes Docker so efficient, because image layers can be cached.
 <img width="723" height="224" alt="image" src="https://github.com/user-attachments/assets/ec81e9d7-9664-4157-93b0-2d49ce4ec538" />
 
 We are building the Docker image for node project so we need to provide the node also in container.
+
 So, we use ```FROM node:19-alpine``` in Dockerfile.
+
 Means, install node in local system and for container we use ```FROM node <version>```
+
+
