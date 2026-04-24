@@ -289,7 +289,8 @@ Means, install node in local system and for container we use ```FROM node <versi
 ```
 FROM : Building the images from the specified image
 
-RUM : Will execute any command in a shell inside the containers environment.
+RUN : Will execute any command in a shell inside the containers environment.
+
 This RUN container also install the node in docker container.
 ```
 
