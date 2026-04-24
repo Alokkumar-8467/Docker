@@ -226,6 +226,7 @@ It need a container ID like ```Docker start a0787c26320a```
 <img width="1010" height="527" alt="image" src="https://github.com/user-attachments/assets/d6a46da5-58f1-40ed-b807-23ac58df7376" />
 
 ### Docker logs
-``` Docker logs web-app ``` give all information about that container. 
+``` Docker logs web-app ``` give all information about that container.
+
 <img width="897" height="513" alt="image" src="https://github.com/user-attachments/assets/b7c5556c-19d3-46dc-8c8b-84e728cad091" />
 
