@@ -209,3 +209,8 @@ Now nginx work or run on localHost ```http://localhost:1200```
 
 This command also show the running container and exited container.
 
+### Docker stop
+<img width="1018" height="522" alt="image" src="https://github.com/user-attachments/assets/d70f9a62-a23b-43ca-978e-c2f53bbf4a22" />
+
+it need a container ID to like ```Docker stop a0787c26320a```
+
