@@ -259,3 +259,4 @@ Docker can then build an image by reading those instructions.
 ### Structure of Dockerfile
 Docker file start from a parent image or **base image**
 It's a Docker image that your image is based on.
+**You choose the base image, depending on which tools you need to have available**
