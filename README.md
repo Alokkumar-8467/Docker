@@ -393,15 +393,18 @@ In Command lIne it also show the new Created image when we type ```docker images
 ### 3. Now running the Docker Container.
 
 ``` docker run -d -p 3000:3000 node-app:1.0 ```
-
+1. Running this is terminal
 <img width="666" height="236" alt="image" src="https://github.com/user-attachments/assets/990e11ab-5d2f-4baf-985c-aaf3b2aa2a6f" />
 
+2. Show container in Docker-Desktop
 <img width="1658" height="344" alt="image" src="https://github.com/user-attachments/assets/98433d06-4fd8-4292-b34e-c8ac03071fcb" />
 
+3. When we check ```docker ps``` so it show the running container in terminal also.
 <img width="971" height="100" alt="image" src="https://github.com/user-attachments/assets/5eda3b82-7044-44ea-a6e5-68f8627d5221" />
 
+4. Run the project on localhost:3000
 <img width="750" height="247" alt="image" src="https://github.com/user-attachments/assets/6065428a-3031-4f80-8f96-db5af263d4f9" />
 
+5. When we do ```docker logs 7e9a371d078a``` then also show the running port in container.
 <img width="956" height="283" alt="image" src="https://github.com/user-attachments/assets/5c859205-1514-4c1d-8dad-6c4d80b25743" />
-
 
