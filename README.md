@@ -330,4 +330,6 @@ WORKDIR /app
 RUN npm install
 CMD ["node", "server.js"]
 ```
+<img width="592" height="286" alt="image" src="https://github.com/user-attachments/assets/224a97bd-cdaf-4e49-adf5-a2e0fc507512" />
+
 
