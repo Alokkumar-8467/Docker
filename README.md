@@ -408,3 +408,4 @@ In Command lIne it also show the new Created image when we type ```docker images
 5. When we do ```docker logs 7e9a371d078a``` then also show the running port in container.
 <img width="956" height="283" alt="image" src="https://github.com/user-attachments/assets/5c859205-1514-4c1d-8dad-6c4d80b25743" />
 
+
